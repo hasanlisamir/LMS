@@ -1,0 +1,16 @@
+C:\Users\Lenovo 2024\Desktop\Code Academy\LMS\LMS.BL\bin\Debug\net8.0\LMS.BL.deps.json
+C:\Users\Lenovo 2024\Desktop\Code Academy\LMS\LMS.BL\bin\Debug\net8.0\LMS.BL.dll
+C:\Users\Lenovo 2024\Desktop\Code Academy\LMS\LMS.BL\bin\Debug\net8.0\LMS.BL.pdb
+C:\Users\Lenovo 2024\Desktop\Code Academy\LMS\LMS.BL\bin\Debug\net8.0\LMS.DAL.dll
+C:\Users\Lenovo 2024\Desktop\Code Academy\LMS\LMS.BL\bin\Debug\net8.0\LMS.DAL.pdb
+C:\Users\Lenovo 2024\Desktop\Code Academy\LMS\LMS.BL\obj\Debug\net8.0\LMS.BL.csproj.AssemblyReference.cache
+C:\Users\Lenovo 2024\Desktop\Code Academy\LMS\LMS.BL\obj\Debug\net8.0\LMS.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo 2024\Desktop\Code Academy\LMS\LMS.BL\obj\Debug\net8.0\LMS.BL.AssemblyInfoInputs.cache
+C:\Users\Lenovo 2024\Desktop\Code Academy\LMS\LMS.BL\obj\Debug\net8.0\LMS.BL.AssemblyInfo.cs
+C:\Users\Lenovo 2024\Desktop\Code Academy\LMS\LMS.BL\obj\Debug\net8.0\LMS.BL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo 2024\Desktop\Code Academy\LMS\LMS.BL\obj\Debug\net8.0\LMS.BL.csproj.Up2Date
+C:\Users\Lenovo 2024\Desktop\Code Academy\LMS\LMS.BL\obj\Debug\net8.0\LMS.BL.dll
+C:\Users\Lenovo 2024\Desktop\Code Academy\LMS\LMS.BL\obj\Debug\net8.0\refint\LMS.BL.dll
+C:\Users\Lenovo 2024\Desktop\Code Academy\LMS\LMS.BL\obj\Debug\net8.0\LMS.BL.pdb
+C:\Users\Lenovo 2024\Desktop\Code Academy\LMS\LMS.BL\obj\Debug\net8.0\ref\LMS.BL.dll
+C:\Users\Lenovo 2024\Desktop\Code Academy\LMS\LMS.BL\obj\Debug\net8.0\LMS.BL.sourcelink.json
